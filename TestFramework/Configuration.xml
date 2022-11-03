@@ -1,0 +1,7 @@
+﻿<Configuration>
+  <GlobalConfiguration>
+    <URL>http://perfecto.io/</URL>
+    <LongTimeout>60</LongTimeout>
+    <FastTimeout>5</FastTimeout>    
+  </GlobalConfiguration>  
+</Configuration>
